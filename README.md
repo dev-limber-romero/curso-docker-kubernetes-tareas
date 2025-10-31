@@ -1,7 +1,7 @@
 # curso-docker-kubernetes-tareas
-##Título: "Tareas - Curso Docker & Kubernetes"
+## Título: "Tareas - Curso Docker & Kubernetes"
 
-#Nombre: Limber Juan Romero Condori
+# Nombre: Limber Juan Romero Condori
 
 **[Enlace curso de i-Quattro](https://www.i-quattro.com/product-page/dok-kub-001)**
 
