@@ -23,6 +23,8 @@
 
    docker ps -a
    
-4. Explicacion:
+3. Explicacion:
    docker run realiza el crear y ejecutar un container
+
+   4. evidencia esta en la carpeta screenshots de la clase 1
 
